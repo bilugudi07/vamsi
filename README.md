@@ -1,2 +1,2 @@
-# vamsi
-my new file
+#!/bin/bash
+echo "Echo Frindly"
